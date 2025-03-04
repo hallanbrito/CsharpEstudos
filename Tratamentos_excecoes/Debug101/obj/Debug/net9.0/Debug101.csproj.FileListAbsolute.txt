@@ -1,0 +1,14 @@
+C:\Debug101\bin\Debug\net9.0\Debug101.exe
+C:\Debug101\bin\Debug\net9.0\Debug101.deps.json
+C:\Debug101\bin\Debug\net9.0\Debug101.runtimeconfig.json
+C:\Debug101\bin\Debug\net9.0\Debug101.dll
+C:\Debug101\bin\Debug\net9.0\Debug101.pdb
+C:\Debug101\obj\Debug\net9.0\Debug101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Debug101\obj\Debug\net9.0\Debug101.AssemblyInfoInputs.cache
+C:\Debug101\obj\Debug\net9.0\Debug101.AssemblyInfo.cs
+C:\Debug101\obj\Debug\net9.0\Debug101.csproj.CoreCompileInputs.cache
+C:\Debug101\obj\Debug\net9.0\Debug101.dll
+C:\Debug101\obj\Debug\net9.0\refint\Debug101.dll
+C:\Debug101\obj\Debug\net9.0\Debug101.pdb
+C:\Debug101\obj\Debug\net9.0\Debug101.genruntimeconfig.cache
+C:\Debug101\obj\Debug\net9.0\ref\Debug101.dll

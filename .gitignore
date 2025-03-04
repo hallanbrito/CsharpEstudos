@@ -1,0 +1,12 @@
+// Ignorar arquivos de build e temporários para Debug101
+/Debug101/bin/
+/Debug101/obj/
+*.log
+*.tmp
+
+// Ignorar arquivos de build e temporários para Exceptions101
+/Exceptions101/bin/
+/Exceptions101/obj/
+*.log
+*.tmp
+
