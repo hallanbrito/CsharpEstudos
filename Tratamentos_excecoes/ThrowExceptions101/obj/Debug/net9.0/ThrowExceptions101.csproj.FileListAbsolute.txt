@@ -1,0 +1,15 @@
+C:\CsharpEstudos\Tratamentos_excecoes\ThrowExceptions101\bin\Debug\net9.0\ThrowExceptions101.exe
+C:\CsharpEstudos\Tratamentos_excecoes\ThrowExceptions101\bin\Debug\net9.0\ThrowExceptions101.deps.json
+C:\CsharpEstudos\Tratamentos_excecoes\ThrowExceptions101\bin\Debug\net9.0\ThrowExceptions101.runtimeconfig.json
+C:\CsharpEstudos\Tratamentos_excecoes\ThrowExceptions101\bin\Debug\net9.0\ThrowExceptions101.dll
+C:\CsharpEstudos\Tratamentos_excecoes\ThrowExceptions101\bin\Debug\net9.0\ThrowExceptions101.pdb
+C:\CsharpEstudos\Tratamentos_excecoes\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpEstudos\Tratamentos_excecoes\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.AssemblyInfoInputs.cache
+C:\CsharpEstudos\Tratamentos_excecoes\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.AssemblyInfo.cs
+C:\CsharpEstudos\Tratamentos_excecoes\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.csproj.CoreCompileInputs.cache
+C:\CsharpEstudos\Tratamentos_excecoes\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.sourcelink.json
+C:\CsharpEstudos\Tratamentos_excecoes\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.dll
+C:\CsharpEstudos\Tratamentos_excecoes\ThrowExceptions101\obj\Debug\net9.0\refint\ThrowExceptions101.dll
+C:\CsharpEstudos\Tratamentos_excecoes\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.pdb
+C:\CsharpEstudos\Tratamentos_excecoes\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.genruntimeconfig.cache
+C:\CsharpEstudos\Tratamentos_excecoes\ThrowExceptions101\obj\Debug\net9.0\ref\ThrowExceptions101.dll
